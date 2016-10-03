@@ -1,0 +1,31 @@
+@import 'https://fonts.googleapis.com/css?family=Lato';
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Lato', sans-serif;
+}
+h2{
+	margin: 0px 5%;
+}
+.center{
+	text-align: center;
+}
+.input{
+	background-color: #C1C1C1;
+	color: #D16666;
+	margin: 10px 5%;
+	padding: 10px;
+	border: 1px solid #333;
+}
+.output{
+	background-color: #C1C1C1;
+	color: #D16666;
+	margin: 10px 5%;
+	padding: 10px;
+	border: 1px solid #333;
+}
